@@ -11,4 +11,4 @@ This project contains code published under the Eclipse Distribution License http
 
 For support, visit www.harting-mica.com or email micasupport@harting.com.
 
-This application is released under the Apache License http://www.apache.org/licenses/LICENSE-2.0 and subject to the HARTING AGB http://www.harting.com/fileadmin/harting/documents/lg/hartingtechnologygroup/service/AGB_-_Lieferung_SW_20120613.pdf
+This application is subject to the HARTING AGB http://www.harting.com/fileadmin/harting/documents/lg/hartingtechnologygroup/service/AGB_-_Lieferung_SW_20120613.pdf
